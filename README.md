@@ -1,4 +1,4 @@
-# R3F Next Spline Demo
+# Next R3F Spline Demo
 
 A React-Three-Fiber example project based on Next.js and Spline.
 
